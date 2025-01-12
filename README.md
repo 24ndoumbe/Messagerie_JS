@@ -1,3 +1,4 @@
+**
 ##Description du projet
 Messagerie Interactive est une application web simple qui permet à l'utilisateur d'envoyer des messages dans une interface où les messages alternent entre la droite et la gauche. L'utilisateur peut saisir du texte dans un champ de saisie (textarea) et ajouter ce texte dans une zone d'affichage après un clic sur un bouton. L'interface offre aussi la possibilité de redimensionner la zone de texte. Ce projet met en œuvre l'interaction dynamique avec JavaScript et une mise en page soignée avec HTML et CSS.
 
@@ -29,3 +30,4 @@ Le message apparaîtra alternativement à droite ou à gauche de l'écran.
 
 ##Auteur
 Nom : DIEYE Ndoumbe
+**
