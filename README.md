@@ -17,7 +17,9 @@ Un éditeur de texte (par exemple Visual Studio Code) pour modifier le code si n
 
 - **Installation**
 Clonez ce projet depuis GitHub
+
 Accédez au dossier du projet : cd Messagerie
+
 Ouvrez le fichier message.html dans votre navigateur pour tester l'application localement.
 
 - **Utilisation**
