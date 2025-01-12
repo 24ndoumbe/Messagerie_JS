@@ -12,13 +12,13 @@ Messagerie Interactive est une application web simple qui permet à l'utilisateu
 Un navigateur web moderne (Google Chrome, Firefox, Safari, Edge).
 Un éditeur de texte (par exemple Visual Studio Code) pour modifier le code si nécessaire.
 
-## Installation
+- **Intallation**
 Clonez ce projet depuis GitHub : git clone https://github.com/24ndoumbe/Messagerie-Interactive.git
 Accédez au dossier du projet : cd Messagerie-Interactive
 
 Ouvrez le fichier message.html dans votre navigateur pour tester l'application localement.
 
-## Utilisation
+- **Utilisation**
 Entrez un texte dans le champ de saisie (textarea).
 Cliquez sur le bouton Ajouter pour ajouter le message à la zone d'affichage.
 Le message apparaîtra alternativement à droite ou à gauche de l'écran.
