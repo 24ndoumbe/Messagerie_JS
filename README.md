@@ -16,7 +16,7 @@ Un navigateur web moderne (Google Chrome, Firefox, Safari, Edge).
 Un éditeur de texte (par exemple Visual Studio Code) pour modifier le code si nécessaire.
 
 - **Installation**
--***Clonez ce projet depuis GitHub***
+- ***Clonez ce projet depuis GitHub***
 
 Accédez au dossier du projet : cd Messagerie
 
