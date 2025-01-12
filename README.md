@@ -7,8 +7,8 @@ Messagerie Interactive est une application web simple qui permet à l'utilisateu
 **Alternance des positions : Les messages s'affichent alternativement à droite et à gauche dans la zone d'affichage.
 **Redimensionnement de la zone de texte : L'utilisateur peut redimensionner verticalement la zone de saisie.
 
-## Instructions d'installation et d'utilisation
-Prérequis
+## Instructions d'installation et d'utilisation:
+- **Prérequis**
 Un navigateur web moderne (Google Chrome, Firefox, Safari, Edge).
 Un éditeur de texte (par exemple Visual Studio Code) pour modifier le code si nécessaire.
 
@@ -23,13 +23,15 @@ Entrez un texte dans le champ de saisie (textarea).
 Cliquez sur le bouton Ajouter pour ajouter le message à la zone d'affichage.
 Le message apparaîtra alternativement à droite ou à gauche de l'écran.
 
-## Outils ET Technologies Utilisés
-**HTML : Pour la structure de la page web.
-**CSS : Pour la mise en forme et le design de l'interface.
-**JavaScript : Pour la gestion de la logique interactive (ajout de messages, alternance de positions, redimensionnement de la zone de texte).
+## Outils ET Technologies Utilisés:
+- HTML : Pour la structure de la page web.
+- CSS : Pour la mise en forme et le design de l'interface.
+- JavaScript : Pour la gestion de la logique interactive (ajout de messages, alternance de positions, redimensionnement de la zone de texte).
 
-##Auteur
-Nom : DIEYE Ndoumbe
+## Auteur
+Nom : DIEYE  
+Prénom : NDOUMBE  
+Université : UPHF Valenciennes
 
 
 # To Do List - Projet JavaScript
